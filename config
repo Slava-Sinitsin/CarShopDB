@@ -1,0 +1,6 @@
+username=car_shop_admin
+password=1436
+driver={PostgreSQL Unicode}
+database=car_shop
+server=localhost
+port=5432
